@@ -1,0 +1,45 @@
+.year {
+	font-family: "Arial Black";
+	font-size: 20px;
+	background: lightgray;
+}
+
+.header {
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	width: 50px;
+	padding: 5px 10px;
+	background-color: #100;
+	font-family: "Arial Black";
+}
+
+.day {
+	text-align: center;
+	font-size: 18px;
+	padding: 5px 5px;
+	background: white;
+}
+
+.day:hover {
+	background-color: lightgray;
+}
+
+.currentDay {
+	border-style: solid;
+	padding: 3px 3px;
+	background-color: gray;
+}
+
+.topHeader {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	height: 40px;
+	line-height: 40px;
+	vertical-align: center;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	background-color: #333;
+}
